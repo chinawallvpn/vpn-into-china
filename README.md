@@ -700,7 +700,6 @@ GoLink作为一款主打海外华人回国加速服务的VPN工具，在市场�
 
 * <a href="https://chinawallvpn.github.io/">科学上网指南</a>：详细介绍如何科学上网，并推荐几款目前市面上最出色的<a href="https://chinawallvpn.github.io/">翻墙VPN</a>和<a href="https://chinawallvpn.github.io/">翻墙软件</a>。
 * <a href="https://github.com/chinawallvpn/chinawallvpn.github.io">中国VPN排行</a>：基于大陆实测后，精选了几款最好用的<a href="https://github.com/chinawallvpn/chinawallvpn.github.io">国内VPN</a>，可为中国用户提供稳定翻墙服务。
-* <a href="https://github.com/chinawallvpn/vpn-into-china">回国VPN推荐</a>：海外华人如何<a href="https://github.com/chinawallvpn/vpn-into-china">翻墙回国</a>获取大陆IP并访问国内的腾讯视频和网易云音乐等平台。
 * <a href="https://github.com/chinawallvpn/pc-vpn">电脑VPN推荐</a>：详细介绍目前最有效的<a href="https://github.com/chinawallvpn/pc-vpn">电脑翻墙</a>方法，并推荐几款中国最好用的<a href="https://github.com/chinawallvpn/pc-vpn">PC端VPN</a>。
 * <a href="https://github.com/chinawallvpn/android-vpn">安卓VPN推荐</a>：详细介绍多种<a href="https://github.com/chinawallvpn/android-vpn">安卓翻墙</a>方法，并推荐几款最佳<a href="https://github.com/chinawallvpn/android-vpn">手机VPN</a>，让你自由访问海外网站。
 * <a href="https://github.com/chinawallvpn/router-vpn">路由器VPN推荐</a>：详细介绍<a href="https://github.com/chinawallvpn/router-vpn">路由器翻墙</a>的优缺点，以及华为、小米和TP-Link等路由器的翻墙教程。
